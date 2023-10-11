@@ -1,0 +1,1 @@
+export const selectedItem = document.getElementsByID('navigation')
