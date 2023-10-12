@@ -4,6 +4,10 @@
     font-size: 62.5%;
 }
 
+:root{
+    font-size: clamp(40%, 1% + 2vw, 62,5%);
+}
+
 body{
     display: grid;
     place-content: center;
