@@ -1,20 +1,16 @@
-import * as el from "./elements.js"
-import * as actions from "./actions.js" 
+import * as el from "./elements.js";
 
 
-export function registerControls() {
+export function selectedPage() {
+    const currentRoute= window.location.pathname
 
-    el.selectedItem.addEventListener('click', (event) => {
-       
-        console.log(event.target);
-        const action = event.target.dataset.action;
+   el.menus.forEach(link => {
+        if(link.getAttribute('href')=== currentRoute){
+            link.classList.add('currentPage')
 
-        if(typeof actions[action] != "function") {
-            return;
+        }else{ 
+            link.classList.remove('currentPage')
         }
-        actions[action]();
-
-        console.log (actions);
-    })
+    });
 
 }

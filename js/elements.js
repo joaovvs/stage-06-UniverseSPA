@@ -1,1 +1,1 @@
-export const selectedItem = document.getElementsByID('navigation')
+export const menus = document.querySelectorAll('nav a')
