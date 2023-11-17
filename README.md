@@ -1,15 +1,22 @@
-﻿# stage-06-UniverseSPA
 
-# SPA Universe
+#  UniverseSPA
 
-# 💻 Sobre o desafio
+Projeto para resolução de desafio proposto no módulo "Stage-06" do curso Explorer da rocketseat.
 
-E aí, curtiu aprender todos esses novos conceitos de JavaScript?
+## Sobre o desafio
 
-Bora praticar e rever tudo o que foi ensinado na aula? **💜**
+O desafio consiste na criação de uma SPA para aplicar os conceitos aprendios em aula durante o módulo Stage 06.
 
-<aside>
-💡 O que será abordado nesse desafio:
+
+## Preview 
+
+![Preview](./assets/preview.png)
+
+
+
+
+
+## Aprendizados
 
 - Conceitos de SPA;
 - Mapeamento de rotas;
@@ -17,18 +24,9 @@ Bora praticar e rever tudo o que foi ensinado na aula? **💜**
 - Orientação a objetos;
 - Classes e muito mais.
 
-</aside>
 
-A ideia agora é criar o **SPA Universe**! 🚀
+## Stack utilizada
 
-Aqui está o [**link**](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate) com o layout da aplicação. Ele abrirá um arquivo igual a imagem abaixo:
+**Front-end:** JavaScript, HTML e CSS
 
-A ideia aqui é você utilizar todos os conceitos aprendidos em aula em uma aplicação visualmente mais bonita. Irado, né? 😛 
 
-E então, topa encarar esse novo desafio? **💜**
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
-
-**Obs:** fique à vontade caso queira alterar alguns pontos do layout. Belezinha? 😉
-
-*****Lembrando*: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá! 
-Boa sorte e boooooora codar! **🚀**
